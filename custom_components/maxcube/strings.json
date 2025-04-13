@@ -1,0 +1,22 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "Connect to MAX! Cube Gateway",
+        "description": "Enter the connection details for your MAX! Cube LAN Gateway.",
+        "data": {
+          "host": "Host (IP Address)",
+          "port": "Port",
+          "scan_interval": "Scan Interval (seconds)"
+        }
+      }
+    },
+    "error": {
+      "cannot_connect": "Failed to connect to the MAX! Cube. Please check the host/port and ensure the gateway is reachable.",
+      "unknown": "An unknown error occurred."
+    },
+    "abort": {
+      "already_configured": "This MAX! Cube gateway is already configured."
+    }
+  }
+}
