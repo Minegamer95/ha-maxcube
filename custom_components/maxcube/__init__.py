@@ -27,7 +27,7 @@ _LOGGER = logging.getLogger(__name__)
 PLATFORMS = [Platform.CLIMATE, Platform.BINARY_SENSOR]
 
 # Define a reasonable default scan interval
-DEFAULT_SCAN_INTERVAL = timedelta(seconds=300)
+DEFAULT_SCAN_INTERVAL = timedelta(seconds=30)
 
 
 async def async_setup_entry(hass: HomeAssistant, entry: ConfigEntry) -> bool:
