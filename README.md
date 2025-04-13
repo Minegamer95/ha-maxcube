@@ -9,4 +9,4 @@ It was mainly ported by Gemini
 
 [![Open your Home Assistant instance and open a repository inside the Home Assistant Community Store.](https://my.home-assistant.io/badges/hacs_repository.svg)][hacs-repository]
 
-[hacs-repository]: https://my.home-assistant.io/redirect/hacs_repository/?owner=Limych&repository=ha-average&category=integration
+[hacs-repository]: https://my.home-assistant.io/redirect/hacs_repository/?owner=Minegamer95&repository=ha-maxcube&category=integration
